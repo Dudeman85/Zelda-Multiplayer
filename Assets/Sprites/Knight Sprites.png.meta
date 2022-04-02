@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 5844aee116b2780478f0ede1c977ea17
+timeCreated: 1566332590
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Knight Sprite_0
+    21300002: Knight Sprite_1
+    21300004: Knight Sprite_2
+    21300006: Knight Sprite_3
+    21300008: Knight Sprite_4
+    21300010: Knight Sprite_5
+    21300012: Knight Sprite_6
+    21300014: Knight Sprite_7
+    21300016: Knight Sprite_8
+    21300018: Knight Sprite_9
+    21300020: Knight Sprite_10
+    21300022: Knight Sprite_11
+    21300024: Knight Sprite_12
+    21300026: Knight Sprite_13
+    21300028: Knight Sprite_14
+    21300030: Knight Sprite_15
+    21300032: Knight Sprite_16
+    21300034: Knight Sprite_17
+    21300036: Knight Sprite_18
+    21300038: Knight Sprite_19
+    21300040: Knight Sprite_20
+    21300042: Knight Sprite_21
+    21300044: Knight Sprite_22
+    21300046: Knight Sprite_23
+    21300048: Knight Sprite_24
+    21300050: Knight Sprite_25
+    21300052: Knight Sprite_26
+    21300054: Knight Sprite_27
+    21300056: Knight Sprite_28
+    21300058: Knight Sprite_29
+    21300060: Knight Sprite_30
+    21300062: Knight Sprite_31
+    21300064: Knight Sprite_32
+    21300066: Knight Sprite_33
+    21300068: Knight Sprite_34
+    21300070: Knight Sprite_35
+    21300072: Knight Sprite_36
+    21300074: Knight Sprite_37
+    21300076: Knight Sprite_38
+    21300078: Knight Sprite_39
+    21300080: Knight Sprite_40
+    21300082: Knight Sprite_41
+    21300084: Knight Sprite_42
+    21300086: Knight Sprite_43
+    21300088: Knight Sprite_44
+    21300090: Knight Sprite_45
+    21300092: Knight Sprite_46
+    21300094: Knight Sprite_47
+    21300096: Knight Sprite_48
+    21300098: Knight Sprite_49
+    21300100: Knight Sprite_50
+    21300102: Knight Sprite_51
+    21300104: Knight Sprite_52
+    21300106: Knight Sprite_53
+    21300108: Knight Sprite_54
+    21300110: Knight Sprite_55
+    21300112: Knight Sprite_56
+    21300114: Knight Sprite_57
+    21300116: Knight Sprite_58
+    21300118: Knight Sprite_59
+    21300120: Knight Sprite_60
+    21300122: Knight Sprite_61
+    21300124: Knight Sprite_62
+    21300126: Knight Sprite_63
+    21300128: Knight Sprite_64
+    21300130: Knight Sprite_65
+    21300132: Knight Sprite_66
+    21300134: Knight Sprite_67
+    21300136: Knight Sprite_68
+    21300138: Knight Sprite_69
+    21300140: Knight Sprite_70
+    21300142: Knight Sprite_71
+    21300144: Knight Sprite_72
+    21300146: Knight Sprite_73
+    21300148: Knight Sprite_74
+    21300150: Knight Sprite_75
+    21300152: Knight Sprite_76
+    21300154: Knight Sprite_77
+    21300156: Knight Sprite_78
+    21300158: Knight Sprite_79
+    21300160: Knight Sprite_80
+    21300162: Knight Sprite_81
+    21300164: Knight Sprite_82
+    21300166: Knight Sprite_83
+    21300168: Knight Sprite_84
+    21300170: Knight Sprite_85
+    21300172: Knight Sprite_86
+    21300174: Knight Sprite_87
+    21300176: Knight Sprite_88
+    21300178: Knight Sprite_89
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 89
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 71
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 71
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 53
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 53
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 54
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 36
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Knight Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

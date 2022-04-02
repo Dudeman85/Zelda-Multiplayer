@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: e8deb9f3849015342ae167ff059d1302
+timeCreated: 1538015572
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pirate sprite r_0
+    21300002: pirate sprite r_1
+    21300004: pirate sprite r_2
+    21300006: pirate sprite r_3
+    21300008: pirate sprite r_4
+    21300010: pirate sprite r_5
+    21300012: pirate sprite r_6
+    21300014: pirate sprite r_7
+    21300016: pirate sprite r_8
+    21300018: pirate sprite r_9
+    21300020: pirate sprite r_10
+    21300022: pirate sprite r_11
+    21300024: pirate sprite r_12
+    21300026: pirate sprite r_13
+    21300028: pirate sprite r_14
+    21300030: pirate sprite r_15
+    21300032: pirate sprite r_16
+    21300034: pirate sprite r_17
+    21300036: pirate sprite r_18
+    21300038: pirate sprite r_19
+    21300040: pirate sprite r_20
+    21300042: pirate sprite r_21
+    21300044: pirate sprite r_22
+    21300046: pirate sprite r_23
+    21300048: pirate sprite r_24
+    21300050: pirate sprite r_25
+    21300052: pirate sprite r_26
+    21300054: pirate sprite r_27
+    21300056: pirate sprite r_28
+    21300058: pirate sprite r_29
+    21300060: pirate sprite r_30
+    21300062: pirate sprite r_31
+    21300064: pirate sprite r_32
+    21300066: pirate sprite r_33
+    21300068: pirate sprite r_34
+    21300070: pirate sprite r_35
+    21300072: pirate sprite r_36
+    21300074: pirate sprite r_37
+    21300076: pirate sprite r_38
+    21300078: pirate sprite r_39
+    21300080: pirate sprite r_40
+    21300082: pirate sprite r_41
+    21300084: pirate sprite r_42
+    21300086: pirate sprite r_43
+    21300088: pirate sprite r_44
+    21300090: pirate sprite r_45
+    21300092: pirate sprite r_46
+    21300094: pirate sprite r_47
+    21300096: pirate sprite r_48
+    21300098: pirate sprite r_49
+    21300100: pirate sprite r_50
+    21300102: pirate sprite r_51
+    21300104: pirate sprite r_52
+    21300106: pirate sprite r_53
+    21300108: pirate sprite r_54
+    21300110: pirate sprite r_55
+    21300112: pirate sprite r_56
+    21300114: pirate sprite r_57
+    21300116: pirate sprite r_58
+    21300118: pirate sprite r_59
+    21300120: pirate sprite r_60
+    21300122: pirate sprite r_61
+    21300124: pirate sprite r_62
+    21300126: pirate sprite r_63
+    21300128: pirate sprite r_64
+    21300130: pirate sprite r_65
+    21300132: pirate sprite r_66
+    21300134: pirate sprite r_67
+    21300136: pirate sprite r_68
+    21300138: pirate sprite r_69
+    21300140: pirate sprite r_70
+    21300142: pirate sprite r_71
+    21300144: pirate sprite r_72
+    21300146: pirate sprite r_73
+    21300148: pirate sprite r_74
+    21300150: pirate sprite r_75
+    21300152: pirate sprite r_76
+    21300154: pirate sprite r_77
+    21300156: pirate sprite r_78
+    21300158: pirate sprite r_79
+    21300160: pirate sprite r_80
+    21300162: pirate sprite r_81
+    21300164: pirate sprite r_82
+    21300166: pirate sprite r_83
+    21300168: pirate sprite r_84
+    21300170: pirate sprite r_85
+    21300172: pirate sprite r_86
+    21300174: pirate sprite r_87
+    21300176: pirate sprite r_88
+    21300178: pirate sprite r_89
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate sprite r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.425, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 73
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 73
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 54
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 36
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pirate sprite r_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

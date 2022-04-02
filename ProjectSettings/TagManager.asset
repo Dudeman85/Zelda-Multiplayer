@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - P1Sword
+  - Enemy
+  - Top Banner
+  - Player 1
+  - P2Sword
+  - Projectile Wall
+  - Enemy Sprite
+  - Fade Out
+  - Health Upgrade
+  - Bribe
+  - Old Man
+  - Fire
+  - Menu Triforce
+  - Debug
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Players
+  - Screen Seperator
+  - Weapons
+  - Enemy Hurtbox
+  - Bomb
+  - Destroyable Wall
+  - Fire
+  - Enemy Projectile
+  - Wall
+  - Dead
+  - Fairy Fountain
+  - Jumpy Enemy
+  - Armos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Items
+    uniqueID: 1620110649
+    locked: 0
+  - name: Enemies
+    uniqueID: 3428874243
+    locked: 0
+  - name: Players
+    uniqueID: 4115264607
+    locked: 0
+  - name: UI
+    uniqueID: 2425096885
+    locked: 0
+  - name: Always On Top
+    uniqueID: 3911200519
+    locked: 0

@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 97538a794001f274ca48a1a3a9a319d4
+timeCreated: 1540146681
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Overworld Tiles_25
+    21300002: Overworld Tiles_1
+    21300004: Overworld Tiles_2
+    21300006: Overworld Tiles_3
+    21300008: Overworld Tiles_4
+    21300010: Overworld Tiles_5
+    21300012: Overworld Tiles_6
+    21300014: Overworld Tiles_7
+    21300016: Overworld Tiles_8
+    21300018: Overworld Tiles_9
+    21300020: Overworld Tiles_10
+    21300022: Overworld Tiles_11
+    21300024: Overworld Tiles_12
+    21300026: Overworld Tiles_13
+    21300028: Overworld Tiles_14
+    21300030: Overworld Tiles_15
+    21300032: Overworld Tiles_16
+    21300034: Overworld Tiles_17
+    21300036: Overworld Tiles_18
+    21300038: Overworld Tiles_19
+    21300040: Overworld Tiles_20
+    21300042: Overworld Tiles_21
+    21300044: Overworld Tiles_22
+    21300046: Overworld Tiles_23
+    21300048: Overworld Tiles_24
+    21300050: Overworld Tiles_0
+    21300052: Overworld Tiles_26
+    21300054: Overworld Tiles_27
+    21300056: Overworld Tiles_28
+    21300058: Overworld Tiles_29
+    21300060: Overworld Tiles_30
+    21300062: Overworld Tiles_31
+    21300064: Overworld Tiles_32
+    21300066: Overworld Tiles_33
+    21300068: Overworld Tiles_34
+    21300070: Overworld Tiles_35
+    21300072: Overworld Tiles_36
+    21300074: Overworld Tiles_37
+    21300076: Overworld Tiles_38
+    21300078: Overworld Tiles_39
+    21300080: Overworld Tiles_40
+    21300082: Overworld Tiles_41
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Overworld Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 687
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -8}
+        - {x: -4, y: -8}
+        - {x: -8, y: -4}
+        - {x: -8, y: 4}
+        - {x: -4, y: 8}
+        - {x: 4, y: 8}
+        - {x: 8, y: 4}
+        - {x: 8, y: -4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -1}
+        - {x: 1, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 888
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 0, y: 8}
+        - {x: 0, y: 2}
+        - {x: 8, y: 2}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1072
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1104
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -16}
+        - {x: -7.9999847, y: 0}
+        - {x: -16, y: 0}
+        - {x: -16, y: 16}
+        - {x: 8, y: 16}
+        - {x: 8, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1008
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 0, y: 8}
+        - {x: 0, y: 1}
+        - {x: 8, y: 1}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4.3518066, y: -8}
+        - {x: -4.0166016, y: -8}
+        - {x: -8, y: -4.0729523}
+        - {x: -8, y: 5.354553}
+        - {x: -5.253418, y: 8}
+        - {x: 4.8967285, y: 8}
+        - {x: 8, y: 4.809044}
+        - {x: 8, y: -4.3628387}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: 1}
+        - {x: -8, y: 1}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: 1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 0}
+        - {x: 1, y: -8}
+        - {x: -8, y: -8}
+        - {x: -8, y: 1}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 0}
+        - {x: -1, y: 0}
+        - {x: -1, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -3}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 0, y: 8}
+        - {x: 0, y: 1}
+        - {x: 8, y: 1}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -2}
+        - {x: -4, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: -2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 800
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -16}
+        - {x: -8, y: 16}
+        - {x: 1, y: 16}
+        - {x: 1, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 800
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 0, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: 16}
+        - {x: 8, y: 16}
+        - {x: 8, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 800
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -16}
+        - {x: -8, y: 16}
+        - {x: 0, y: 16}
+        - {x: 0, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 800
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.5, y: -16}
+        - {x: -8.5, y: 8}
+        - {x: 0.5, y: 8}
+        - {x: 0.5, y: 16}
+        - {x: 8.5, y: 16}
+        - {x: 8.5, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1097
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -24}
+        - {x: 0, y: -20}
+        - {x: 0, y: 36}
+        - {x: 3, y: 40}
+        - {x: 8, y: 40}
+        - {x: 8, y: -24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1097
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -24}
+        - {x: -8, y: 40}
+        - {x: -3, y: 40}
+        - {x: 0, y: 36}
+        - {x: 0, y: -20}
+        - {x: -3, y: -24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 1152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Overworld Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

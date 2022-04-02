@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 5721792c3ee3d674fa44a03fa794d7bc
+timeCreated: 1535073817
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Link Hitstun Sprites_0
+    21300002: Link Hitstun Sprites_1
+    21300004: Link Hitstun Sprites_2
+    21300006: Link Hitstun Sprites_3
+    21300008: Link Hitstun Sprites_4
+    21300010: Link Hitstun Sprites_5
+    21300012: Link Hitstun Sprites_6
+    21300014: Link Hitstun Sprites_7
+    21300016: Link Hitstun Sprites_8
+    21300018: Link Hitstun Sprites_9
+    21300020: Link Hitstun Sprites_10
+    21300022: Link Hitstun Sprites_11
+    21300024: Link Hitstun Sprites_12
+    21300026: Link Hitstun Sprites_13
+    21300028: Link Hitstun Sprites_14
+    21300030: Link Hitstun Sprites_15
+    21300032: Link Hitstun Sprites_16
+    21300034: Link Hitstun Sprites_17
+    21300036: Link Hitstun Sprites_18
+    21300038: Link Hitstun Sprites_19
+    21300040: Link Hitstun Sprites_20
+    21300042: Link Hitstun Sprites_21
+    21300044: Link Hitstun Sprites_22
+    21300046: Link Hitstun Sprites_23
+    21300048: Link Hitstun Sprites_24
+    21300050: Link Hitstun Sprites_25
+    21300052: Link Hitstun Sprites_26
+    21300054: Link Hitstun Sprites_27
+    21300056: Link Hitstun Sprites_28
+    21300058: Link Hitstun Sprites_29
+    21300060: Link Hitstun Sprites_30
+    21300062: Link Hitstun Sprites_31
+    21300064: Link Hitstun Sprites_32
+    21300066: Link Hitstun Sprites_33
+    21300068: Link Hitstun Sprites_34
+    21300070: Link Hitstun Sprites_35
+    21300072: Link Hitstun Sprites_36
+    21300074: Link Hitstun Sprites_37
+    21300076: Link Hitstun Sprites_38
+    21300078: Link Hitstun Sprites_39
+    21300080: Link Hitstun Sprites_40
+    21300082: Link Hitstun Sprites_41
+    21300084: Link Hitstun Sprites_42
+    21300086: Link Hitstun Sprites_43
+    21300088: Link Hitstun Sprites_44
+    21300090: Link Hitstun Sprites_45
+    21300092: Link Hitstun Sprites_46
+    21300094: Link Hitstun Sprites_47
+    21300096: Link Hitstun Sprites_48
+    21300098: Link Hitstun Sprites_49
+    21300100: Link Hitstun Sprites_50
+    21300102: Link Hitstun Sprites_51
+    21300104: Link Hitstun Sprites_52
+    21300106: Link Hitstun Sprites_53
+    21300108: Link Hitstun Sprites_54
+    21300110: Link Hitstun Sprites_55
+    21300112: Link Hitstun Sprites_56
+    21300114: Link Hitstun Sprites_57
+    21300116: Link Hitstun Sprites_58
+    21300118: Link Hitstun Sprites_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 121
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 121
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 122
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 121
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 118
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 118
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 118
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 119
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 92
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 90
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 88
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 89
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 88
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 88
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 61
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 36
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 35
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 36
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Hitstun Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

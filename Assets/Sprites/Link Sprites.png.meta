@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 4b69ffcf9f3209d4690629e2f9f0f8bd
+timeCreated: 1533593249
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Link Sprites_-
+    21300002: Link Sprites_1
+    21300004: Link Sprites_2
+    21300006: Link Sprites_3
+    21300008: Link Sprites_4
+    21300010: Link Sprites_5
+    21300012: Link Sprites_6
+    21300014: Link Sprites_7
+    21300016: Link Sprites_8
+    21300018: Link Sprites_9
+    21300020: Link Sprites_10
+    21300022: Link Sprites_11
+    21300024: Link Sprites_12
+    21300026: Link Sprites_13
+    21300028: Link Sprites_14
+    21300030: Link Sprites_15
+    21300032: Link Sprites_16
+    21300034: Link Sprites_17
+    21300036: Link Sprites_18
+    21300038: Link Sprites_19
+    21300040: Link Sprites_20
+    21300042: Link Sprites_21
+    21300044: Link Sprites_22
+    21300046: Link Sprites_23
+    21300048: Link Sprites_24
+    21300050: Link Sprites_25
+    21300052: Link Sprites_26
+    21300054: Link Sprites_27
+    21300056: Link Sprites_28
+    21300058: Link Sprites_29
+    21300060: Link Sprites_30
+    21300062: Link Sprites_31
+    21300064: Link Sprites_32
+    21300066: Link Sprites_33
+    21300068: Link Sprites_34
+    21300070: Link Sprites_35
+    21300072: Link Sprites_36
+    21300074: Link Sprites_37
+    21300076: Link Sprites_38
+    21300078: Link Sprites_39
+    21300080: Link Sprites_40
+    21300082: Link Sprites_41
+    21300084: Link Sprites_42
+    21300086: Link Sprites_43
+    21300088: Link Sprites_44
+    21300090: Link Sprites_45
+    21300092: Link Sprites_46
+    21300094: Link Sprites_47
+    21300096: Link Sprites_48
+    21300098: Link Sprites_49
+    21300100: Link Sprites_50
+    21300102: Link Sprites_51
+    21300104: Link Sprites_52
+    21300106: Link Sprites_53
+    21300108: Link Sprites_54
+    21300110: Link Sprites_55
+    21300112: Link Sprites_56
+    21300114: Link Sprites_57
+    21300116: Link Sprites_58
+    21300118: Link Sprites_59
+    21300120: Link Sprites_60
+    21300122: Link Sprites_61
+    21300124: Link Sprites_62
+    21300126: Link Sprites_63
+    21300128: Link Sprites_64
+    21300130: Link Sprites_65
+    21300132: Link Sprites_66
+    21300134: Link Sprites_67
+    21300136: Link Sprites_68
+    21300138: Link Sprites_69
+    21300140: Link Sprites_70
+    21300142: Link Sprites_71
+    21300144: Link Sprites_72
+    21300146: Link Sprites_73
+    21300148: Link Sprites_74
+    21300150: Link Sprites_75
+    21300152: Link Sprites_76
+    21300154: Link Sprites_77
+    21300156: Link Sprites_78
+    21300158: Link Sprites_79
+    21300160: Link Sprites_80
+    21300162: Link Sprites_81
+    21300164: Link Sprites_82
+    21300166: Link Sprites_83
+    21300168: Link Sprites_84
+    21300170: Link Sprites_85
+    21300172: Link Sprites_86
+    21300174: Link Sprites_87
+    21300176: Link Sprites_88
+    21300178: Link Sprites_89
+    21300180: Link Sprites_90
+    21300182: Link Sprites_91
+    21300184: Link Sprites_92
+    21300186: Link Sprites_93
+    21300188: Link Sprites_94
+    21300190: Link Sprites_95
+    21300192: Link Sprites_96
+    21300194: Link Sprites_97
+    21300196: Link Sprites_98
+    21300198: Link Sprites_99
+    21300200: Link Sprites_100
+    21300202: Link Sprites_101
+    21300204: Link Sprites_102
+    21300206: Link Sprites_103
+    21300208: Link Sprites_104
+    21300210: Link Sprites_105
+    21300212: Link Sprites_106
+    21300214: Link Sprites_107
+    21300216: Link Sprites_108
+    21300218: Link Sprites_109
+    21300220: Link Sprites_110
+    21300222: Link Sprites_111
+    21300224: Link Sprites_112
+    21300226: Link Sprites_113
+    21300228: Link Sprites_114
+    21300230: Link Sprites_115
+    21300232: Link Sprites_116
+    21300234: Link Sprites_117
+    21300236: Link Sprites_118
+    21300238: Link Sprites_119
+    21300240: Link Sprites_120
+    21300242: Link Sprites_121
+    21300244: Link Sprites_122
+    21300246: Link Sprites_123
+    21300248: Link Sprites_124
+    21300250: Link Sprites_125
+    21300252: Link Sprites_126
+    21300254: Link Sprites_127
+    21300256: Link Sprites_128
+    21300258: Link Sprites_129
+    21300260: Link Sprites_130
+    21300262: Link Sprites_131
+    21300264: Link Sprites_132
+    21300266: Link Sprites_133
+    21300268: Link Sprites_134
+    21300270: Link Sprites_135
+    21300272: Link Sprites_136
+    21300274: Link Sprites_137
+    21300276: Link Sprites_0
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Link Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 101
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 102
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 85
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 84
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

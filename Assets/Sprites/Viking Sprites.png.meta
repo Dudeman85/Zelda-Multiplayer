@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: f85d05c07f766e347b0a276c3d4f32c7
+timeCreated: 1538012867
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Viking Sprites_0
+    21300002: Viking Sprites_1
+    21300004: Viking Sprites_2
+    21300006: Viking Sprites_3
+    21300008: Viking Sprites_4
+    21300010: Viking Sprites_5
+    21300012: Viking Sprites_6
+    21300014: Viking Sprites_7
+    21300016: Viking Sprites_8
+    21300018: Viking Sprites_9
+    21300020: Viking Sprites_10
+    21300022: Viking Sprites_11
+    21300024: Viking Sprites_12
+    21300026: Viking Sprites_13
+    21300028: Viking Sprites_14
+    21300030: Viking Sprites_15
+    21300032: Viking Sprites_16
+    21300034: Viking Sprites_17
+    21300036: Viking Sprites_18
+    21300038: Viking Sprites_19
+    21300040: Viking Sprites_20
+    21300042: Viking Sprites_21
+    21300044: Viking Sprites_22
+    21300046: Viking Sprites_23
+    21300048: Viking Sprites_24
+    21300050: Viking Sprites_25
+    21300052: Viking Sprites_26
+    21300054: Viking Sprites_27
+    21300056: Viking Sprites_28
+    21300058: Viking Sprites_29
+    21300060: Viking Sprites_30
+    21300062: Viking Sprites_31
+    21300064: Viking Sprites_32
+    21300066: Viking Sprites_33
+    21300068: Viking Sprites_34
+    21300070: Viking Sprites_35
+    21300072: Viking Sprites_36
+    21300074: Viking Sprites_37
+    21300076: Viking Sprites_38
+    21300078: Viking Sprites_39
+    21300080: Viking Sprites_40
+    21300082: Viking Sprites_41
+    21300084: Viking Sprites_42
+    21300086: Viking Sprites_43
+    21300088: Viking Sprites_44
+    21300090: Viking Sprites_45
+    21300092: Viking Sprites_46
+    21300094: Viking Sprites_47
+    21300096: Viking Sprites_48
+    21300098: Viking Sprites_49
+    21300100: Viking Sprites_50
+    21300102: Viking Sprites_51
+    21300104: Viking Sprites_52
+    21300106: Viking Sprites_53
+    21300108: Viking Sprites_54
+    21300110: Viking Sprites_55
+    21300112: Viking Sprites_56
+    21300114: Viking Sprites_57
+    21300116: Viking Sprites_58
+    21300118: Viking Sprites_59
+    21300120: Viking Sprites_60
+    21300122: Viking Sprites_61
+    21300124: Viking Sprites_62
+    21300126: Viking Sprites_63
+    21300128: Viking Sprites_64
+    21300130: Viking Sprites_65
+    21300132: Viking Sprites_66
+    21300134: Viking Sprites_67
+    21300136: Viking Sprites_68
+    21300138: Viking Sprites_69
+    21300140: Viking Sprites_70
+    21300142: Viking Sprites_71
+    21300144: Viking Sprites_72
+    21300146: Viking Sprites_73
+    21300148: Viking Sprites_74
+    21300150: Viking Sprites_75
+    21300152: Viking Sprites_76
+    21300154: Viking Sprites_77
+    21300156: Viking Sprites_78
+    21300158: Viking Sprites_79
+    21300160: Viking Sprites_80
+    21300162: Viking Sprites_81
+    21300164: Viking Sprites_82
+    21300166: Viking Sprites_83
+    21300168: Viking Sprites_84
+    21300170: Viking Sprites_85
+    21300172: Viking Sprites_86
+    21300174: Viking Sprites_87
+    21300176: Viking Sprites_88
+    21300178: Viking Sprites_89
+    21300180: viking sprite_0
+    21300182: viking sprite_1
+    21300184: viking sprite_2
+    21300186: viking sprite_3
+    21300188: viking sprite_4
+    21300190: viking sprite_5
+    21300192: viking sprite_6
+    21300194: viking sprite_7
+    21300196: viking sprite_8
+    21300198: viking sprite_9
+    21300200: viking sprite_10
+    21300202: viking sprite_11
+    21300204: viking sprite_12
+    21300206: viking sprite_13
+    21300208: viking sprite_14
+    21300210: viking sprite_15
+    21300212: viking sprite_16
+    21300214: viking sprite_17
+    21300216: viking sprite_18
+    21300218: viking sprite_19
+    21300220: viking sprite_20
+    21300222: viking sprite_21
+    21300224: viking sprite_22
+    21300226: viking sprite_23
+    21300228: viking sprite_24
+    21300230: viking sprite_25
+    21300232: viking sprite_26
+    21300234: viking sprite_27
+    21300236: viking sprite_28
+    21300238: viking sprite_29
+    21300240: viking sprite_30
+    21300242: viking sprite_31
+    21300244: viking sprite_32
+    21300246: viking sprite_33
+    21300248: viking sprite_34
+    21300250: viking sprite_35
+    21300252: viking sprite_36
+    21300254: viking sprite_37
+    21300256: viking sprite_38
+    21300258: viking sprite_39
+    21300260: viking sprite_40
+    21300262: viking sprite_41
+    21300264: viking sprite_42
+    21300266: viking sprite_43
+    21300268: viking sprite_44
+    21300270: viking sprite_45
+    21300272: viking sprite_46
+    21300274: viking sprite_47
+    21300276: viking sprite_48
+    21300278: viking sprite_49
+    21300280: viking sprite_50
+    21300282: viking sprite_51
+    21300284: viking sprite_52
+    21300286: viking sprite_53
+    21300288: viking sprite_54
+    21300290: viking sprite_55
+    21300292: viking sprite_56
+    21300294: viking sprite_57
+    21300296: viking sprite_58
+    21300298: viking sprite_59
+    21300300: viking sprite_60
+    21300302: viking sprite_61
+    21300304: viking sprite_62
+    21300306: viking sprite_63
+    21300308: viking sprite_64
+    21300310: viking sprite_65
+    21300312: viking sprite_66
+    21300314: viking sprite_67
+    21300316: viking sprite_68
+    21300318: viking sprite_69
+    21300320: viking sprite_70
+    21300322: viking sprite_71
+    21300324: viking sprite_72
+    21300326: viking sprite_73
+    21300328: viking sprite_74
+    21300330: viking sprite_75
+    21300332: viking sprite_76
+    21300334: viking sprite_77
+    21300336: viking sprite_78
+    21300338: viking sprite_79
+    21300340: viking sprite_80
+    21300342: viking sprite_81
+    21300344: viking sprite_82
+    21300346: viking sprite_83
+    21300348: viking sprite_84
+    21300350: viking sprite_85
+    21300352: viking sprite_86
+    21300354: viking sprite_87
+    21300356: viking sprite_88
+    21300358: viking sprite_89
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: viking sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 231
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 231
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 231
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 202
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 201
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 202
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 172
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 172
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 142
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 141
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 142
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_50
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 112
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: viking sprite_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 82
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

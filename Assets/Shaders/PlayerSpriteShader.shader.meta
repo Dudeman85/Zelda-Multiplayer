@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 618174f6b646eca48b29fd6888c4405f
+timeCreated: 1581731336
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _Pallette1: {fileID: 2800000, guid: 933648c17c62cec4ba0d62e201f5856d, type: 3}
+  - _Pallette2: {fileID: 2800000, guid: 743e931b6a904584d89ff2ff2fe6aaab, type: 3}
+  - _Pallette3: {fileID: 2800000, guid: 2045c4830592c2446ab11cc440c48658, type: 3}
+  - _Pallette4: {fileID: 2800000, guid: 07cda295b83ea0b449ce9ad63572cf18, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

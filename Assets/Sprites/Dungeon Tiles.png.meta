@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: df5950d304ddd6049821e24be0cf8146
+timeCreated: 1562968675
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dungeon Tiles_0
+    21300002: Dungeon Tiles_1
+    21300004: Dungeon Tiles_2
+    21300006: Dungeon Tiles_3
+    21300008: Dungeon Tiles_4
+    21300010: Dungeon Tiles_5
+    21300012: Dungeon Tiles_6
+    21300014: Dungeon Tiles_7
+    21300016: Dungeon Tiles_8
+    21300018: Dungeon Tiles_9
+    21300020: Dungeon Tiles_10
+    21300022: Dungeon Tiles_11
+    21300024: Dungeon Tiles_12
+    21300026: Dungeon Tiles_13
+    21300028: Dungeon Tiles_14
+    21300030: Dungeon Tiles_15
+    21300032: Dungeon Tiles_16
+    21300034: Dungeon Tiles_17
+    21300036: Dungeon Tiles_18
+    21300038: Dungeon Tiles_19
+    21300040: Dungeon Tiles_20
+    21300042: Dungeon Tiles_21
+    21300044: Dungeon Tiles_22
+    21300046: Dungeon Tiles_23
+    21300048: Dungeon Tiles_24
+    21300050: Dungeon Tiles_25
+    21300052: Dungeon Tiles_26
+    21300054: Dungeon Tiles_27
+    21300056: Dungeon Tiles_28
+    21300058: Dungeon Tiles_29
+    21300060: Dungeon Tiles_30
+    21300062: Dungeon Tiles_31
+    21300064: Dungeon Tiles_32
+    21300066: Dungeon Tiles_33
+    21300068: Dungeon Tiles_34
+    21300070: Dungeon Tiles_35
+    21300072: Dungeon Tiles_36
+    21300074: Dungeon Tiles_37
+    21300076: Dungeon Tiles_38
+    21300078: Dungeon Tiles_39
+    21300080: Dungeon Tiles_40
+    21300082: Dungeon Tiles_41
+    21300084: Dungeon Tiles_42
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 289
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 289
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 257
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 289
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 289
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 256
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 191
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 191
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 191
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 223
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 223
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 190
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 190
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 125
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 157
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 157
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 125
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 125
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 125
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 157
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 157
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 124
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 124
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
